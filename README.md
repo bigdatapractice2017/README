@@ -9,7 +9,7 @@
   - [最火大数据项目](https://github.com/bigdatapractice2017/blpratice-bigdataprj-info)
 
 ## 通知 <a name="announcement"></a>
-  - 2017-7-14 凯波： [https://goo.gl/12pzhm](http://note.youdao.com/group/redirect.html?type=org&inviteCode=DD2B576A51F54B88A02B56865344B6E3) 请大家创建有道云的账号，接受此邀请。我在有道云里放了两本Python书，一本是基础，另外一本是爬虫。
+  - 2017-7-14 凯波： 取消有道云协作。
   - 2017-7-14 凯波：各组master， 邀请确定参加实战的同学， 把大家加入GitHub。 如同我邀请你们的流程类似。 然后组织大家开会，1：确定项目目的； 2：项目范围； 3：确定非目标和非范围（这是思维难点）。 把上述形成文档， 推到GitHub上， 然后告诉我（凯波）。 *#1~#3需要在周日中午前完成。*
 
 ## 流程 <a name="howitworks"></a>
@@ -18,3 +18,5 @@
   1. 寻找数据源，python爬取数据
   2. 规范清洗和整理数据，建立数据库
   3. 选取工具，创建知识图谱
+
+## 协作工具 钉钉：https://t.dingtalk.com/invite/index?code=d0fef61e90
