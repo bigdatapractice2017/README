@@ -19,4 +19,5 @@
   2. 规范清洗和整理数据，建立数据库
   3. 选取工具，创建知识图谱
 
-## 协作工具 钉钉：https://t.dingtalk.com/invite/index?code=d0fef61e90
+## 协作工具<a name="howitworks"></a>
+钉钉：https://t.dingtalk.com/invite/index?code=d0fef61e90
